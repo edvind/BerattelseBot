@@ -34,3 +34,6 @@ Allow the bot to select stories randomly and measure the online response (shares
 Have a moderator to check the stories for content and quality.
 
 Use more / different sources.
+
+
+A prototype can be seen on facebook: https://www.facebook.com/BBGotland/
