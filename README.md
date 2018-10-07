@@ -1,3 +1,6 @@
+> BerättelseBot är del av ett grupparbete under Hack for Heritage 2018
+> läs mer om de andra idéerna på http://edvind.github.com/h4h2018
+
 # BerättelseBot
 
 To take the collection / archive to the person, to inform and educate and to foster and develop interest in history through the collection by drawing their attention to local historical sites, objects, events. 
